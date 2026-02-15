@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "products": "Produkte",
+    "references": "Referenzen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title1": "Formenbau &",
+    "title2": "Gummiproduktion",
+    "cta_products": "Unsere Produkte",
+    "cta_contact": "Kontakt"
+  },
+  "stats": {
+    "experience": "Jahre Erfahrung",
+    "projects": "Abgeschlossene Projekte",
+    "clients": "Zufriedene Kunden",
+    "support": "Support"
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassende Lösungen für Ihre industriellen Fertigungsanforderungen",
+    "mold_title": "Stahlformenbau",
+    "mold_desc": "Hochpräzise Stahlformen, hergestellt in CNC-Bearbeitungszentren. Ideal für Automobil-, Verteidigungs- und Industrieanwendungen.",
+    "rubber_title": "Gummiproduktion",
+    "rubber_desc": "Technische Gummiteile, Dichtungen und Sonderprofile aus NBR, EPDM, Silikon und Viton.",
+    "engineering_title": "Sondertechnik",
+    "engineering_desc": "Individuelle Formenkonstruktion, Prototypenbau und Serienfertigungslösungen. Schlüsselfertige Lösungen."
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "subtitle": "Qualitätsproduktion, starke Technik",
+    "view_all": "Alle Produkte anzeigen",
+    "no_products": "Noch keine Produkte hinzugefügt.",
+    "page_subtitle": "Entdecken Sie unsere Stahlformen, Gummiprodukte und maßgeschneiderte Ingenieurlösungen",
+    "seo_title": "Formen- und Gummiproduktionslösungen",
+    "seo_p1": "Als <strong>Çelik Kalıp Makina</strong> bieten wir eine breite Produktpalette für Ihre industriellen Fertigungsanforderungen. Unsere Expertise in <strong>Stahlformenbau</strong>, <strong>Gummiproduktion</strong>, <strong>Silikonformen</strong> und <strong>Kunststoff-Spritzgussformen</strong> bringt Mehrwert für Ihre Projekte.",
+    "seo_p2": "In unserer Produktionslinie fertigen wir technische Teile, <strong>Dichtungen</strong>, <strong>Buchsen</strong>, <strong>Puffer</strong> und <strong>Sonderprofile</strong> aus verschiedenen Gummitypen wie <strong>NBR, EPDM, Silikon und Viton</strong>.",
+    "seo_p3": "Unser Unternehmen bedient die Automobil-, Verteidigungs-, Bau- und allgemeine Industriesektoren und bietet auch individuelle <strong>Formenkonstruktion</strong> und <strong>Prototyping</strong>-Dienstleistungen an."
+  },
+  "references": {
+    "title": "Unsere Referenzen",
+    "subtitle": "Wir machen den Unterschied in der Branche mit starken Partnerschaften",
+    "heading": "Unternehmen, mit denen wir arbeiten",
+    "description": "Unsere geschätzten Geschäftspartner und Referenzen, mit denen wir seit Jahren zusammenarbeiten.",
+    "no_references": "Noch keine Referenzen hinzugefügt."
+  },
+  "cta": {
+    "title": "Angebot für Ihr Projekt anfordern",
+    "subtitle": "Kontaktieren Sie uns für Ihre Formen- und Gummiproduktionsanforderungen. Lassen Sie uns gemeinsam die beste Lösung finden.",
+    "button": "Kontaktieren Sie uns"
+  },
+  "about": {
+    "title": "Über Uns",
+    "subtitle": "Starke Technik und Qualitätsproduktion im Formenbau und in der Gummiproduktion",
+    "feature1_title": "Moderne Produktionsanlagen",
+    "feature1_desc": "Wir produzieren mit modernsten CNC-Maschinen und Präzisionsbearbeitungszentren.",
+    "feature2_title": "Erfahrenes Team",
+    "feature2_desc": "Wir arbeiten mit einem Team aus Fachingenieuren und Technikern.",
+    "feature3_title": "Qualitätsstandards",
+    "feature3_desc": "Wir garantieren höchste Qualität mit unseren ISO-konformen Produktionsprozessen.",
+    "feature4_title": "Breite Produktpalette",
+    "feature4_desc": "Wir fertigen Stahlformen, Gummiformen, Silikonformen und Kunststoff-Spritzgussformen.",
+    "vision_title": "Unsere Vision",
+    "vision_text": "Das führende Unternehmen der Türkei im Bereich Formenbau und Gummiproduktion zu sein und nach internationalen Standards zu produzieren.",
+    "mission_title": "Unsere Mission",
+    "mission_text": "Unseren Kunden Produkte höchster Qualität rechtzeitig und zu wettbewerbsfähigen Preisen anzubieten. Mit kontinuierlicher Entwicklung und Innovation einen Unterschied zu machen."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktieren Sie uns für Ihre Formen- und Gummiproduktionsprojekte",
+    "reach_us": "Erreichen Sie uns",
+    "reach_desc": "Sie können uns über die folgenden Kontaktkanäle für Ihre Stahlformen- und Gummiproduktionsanfragen erreichen.",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "location": "Standort",
+    "location_value": "Küçükbalıklı Mahallesi Katip Sokak No:7 Osmangazi - Bursa, Türkei",
+    "form_title": "Senden Sie uns eine Nachricht",
+    "form_desc": "Füllen Sie das Formular aus und wir melden uns in Kürze bei Ihnen.",
+    "name": "Vollständiger Name",
+    "name_placeholder": "Ihr vollständiger Name",
+    "phone_number": "Mobiltelefon",
+    "phone_placeholder": "+90 555 000 00 00",
+    "email_address": "E-Mail-Adresse",
+    "email_placeholder": "beispiel@email.com",
+    "message": "Ihre Nachricht",
+    "message_placeholder": "Erzählen Sie uns von Ihrem Projekt...",
+    "send": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "success": "Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen.",
+    "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "footer": {
+    "description": "Ihr kompetenter Lösungspartner im Formenbau und in der Gummiproduktion. Wir dienen der Industrie mit Qualität und Zuverlässigkeit.",
+    "quick_links": "Schnellzugriff",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "admin": {
+    "panel": "Verwaltung",
+    "login": "Anmelden",
+    "login_title": "Anmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "logging_in": "Anmeldung...",
+    "invalid_credentials": "Ungültige E-Mail oder Passwort",
+    "dashboard": "Dashboard",
+    "products": "Produkte",
+    "pages": "Seiten",
+    "messages": "Nachrichten",
+    "references": "Referenzen",
+    "logout": "Abmelden"
+  }
+}
