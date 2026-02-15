@@ -1,0 +1,38 @@
+{
+  "name": "celikkalip",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:migrate": "npx prisma migrate dev",
+    "db:seed": "npx tsx prisma/seed.ts",
+    "db:studio": "npx prisma studio"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^25.2.3",
+    "@types/react": "^19.2.14",
+    "autoprefixer": "^10.4.24",
+    "bcryptjs": "^3.0.3",
+    "next": "^14.2.35",
+    "next-auth": "^4.24.13",
+    "next-intl": "^4.8.2",
+    "nodemailer": "^7.0.13",
+    "postcss": "^8.5.6",
+    "prisma": "^5.22.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "swiper": "^12.1.1",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^7.0.9",
+    "tsx": "^4.21.0"
+  }
+}

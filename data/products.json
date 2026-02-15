@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Çelik Kalıplar1",
+    "description": "CNC işleme merkezlerinde üretilen yüksek hassasiyetli çelik kalıplar. Otomotiv, savunma ve endüstriyel uygulamalar için idealdir.",
+    "category": "kalıp1",
+    "order": 1,
+    "images": [
+      {
+        "id": 1,
+        "url": "/images/urun1.jpg",
+        "alt": "Çelik Kalıp 1",
+        "order": 0
+      },
+      {
+        "id": 2,
+        "url": "/images/urun2.jpg",
+        "alt": "Çelik Kalıp 2",
+        "order": 1
+      },
+      {
+        "id": 3,
+        "url": "/images/urun3.jpg",
+        "alt": "Çelik Kalıp 3",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kauçuk Ürünler",
+    "description": "NBR, EPDM, silikon ve viton malzemelerden üretilen teknik kauçuk parçalar, contalar ve özel profiller.",
+    "category": "kauçuk",
+    "isActive": true,
+    "order": 2,
+    "images": [
+      {
+        "id": 4,
+        "url": "/images/urun4.jpg",
+        "alt": "Kauçuk Ürün 1",
+        "order": 0
+      },
+      {
+        "id": 5,
+        "url": "/images/urun5.jpg",
+        "alt": "Kauçuk Ürün 2",
+        "order": 1
+      },
+      {
+        "id": 6,
+        "url": "/images/urun6.jpg",
+        "alt": "Kauçuk Ürün 3",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Silikon Kalıplar",
+    "description": "Yüksek sıcaklık dayanımı gerektiren uygulamalar için özel tasarım silikon kalıplar ve ürünler.",
+    "category": "kalıp",
+    "isActive": true,
+    "order": 3,
+    "images": [
+      {
+        "id": 7,
+        "url": "/images/urun7.jpg",
+        "alt": "Silikon Kalıp 1",
+        "order": 0
+      },
+      {
+        "id": 8,
+        "url": "/images/urun8.jpg",
+        "alt": "Silikon Kalıp 2",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Plastik Enjeksiyon Kalıpları",
+    "description": "Seri üretim için optimize edilmiş, uzun ömürlü plastik enjeksiyon kalıpları.",
+    "category": "kalıp",
+    "isActive": true,
+    "order": 4,
+    "images": [
+      {
+        "id": 9,
+        "url": "/images/urun9.jpg",
+        "alt": "Plastik Enjeksiyon 1",
+        "order": 0
+      },
+      {
+        "id": 10,
+        "url": "/images/urun10.jpg",
+        "alt": "Plastik Enjeksiyon 2",
+        "order": 1
+      }
+    ]
+  }
+]

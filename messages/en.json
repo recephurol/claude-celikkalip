@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "references": "References",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Mold Manufacturing &",
+    "title2": "Rubber Production",
+    "cta_products": "Our Products",
+    "cta_contact": "Contact"
+  },
+  "stats": {
+    "experience": "Years of Experience",
+    "projects": "Completed Projects",
+    "clients": "Happy Clients",
+    "support": "Support"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your industrial manufacturing needs",
+    "mold_title": "Steel Mold Manufacturing",
+    "mold_desc": "High-precision steel molds produced in CNC machining centers. Ideal for automotive, defense, and industrial applications.",
+    "rubber_title": "Rubber Production",
+    "rubber_desc": "Technical rubber parts, gaskets, and custom profiles from NBR, EPDM, silicone, and Viton materials.",
+    "engineering_title": "Custom Engineering",
+    "engineering_desc": "Custom mold design, prototyping, and mass production solutions for your project. Turnkey service."
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Quality production, strong engineering",
+    "view_all": "View All Products",
+    "no_products": "No products added yet.",
+    "page_subtitle": "Discover our steel molds, rubber products, and custom engineering solutions",
+    "seo_title": "Mold and Rubber Production Solutions",
+    "seo_p1": "As <strong>Celik Kalip Makina</strong>, we offer a wide range of products for your industrial manufacturing needs. Our expertise in <strong>steel mold manufacturing</strong>, <strong>rubber production</strong>, <strong>silicone molds</strong>, and <strong>plastic injection molds</strong> adds value to your projects.",
+    "seo_p2": "In our production line, we manufacture technical parts, <strong>gaskets</strong>, <strong>bushings</strong>, <strong>bumpers</strong>, and <strong>custom profiles</strong> from different rubber types such as <strong>NBR, EPDM, silicone, and Viton</strong>.",
+    "seo_p3": "Serving the automotive, defense, construction, and general industry sectors, our company also provides custom <strong>mold design</strong> and <strong>prototyping</strong> services."
+  },
+  "references": {
+    "title": "Our References",
+    "subtitle": "Making a difference in the industry with strong partnerships",
+    "heading": "Companies We Work With",
+    "description": "Our valued business partners and references we have been working with for years.",
+    "no_references": "No references added yet."
+  },
+  "cta": {
+    "title": "Get a Quote for Your Project",
+    "subtitle": "Contact us for your mold and rubber production needs. Let's find the best solution together.",
+    "button": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Strong engineering and quality production in mold manufacturing and rubber production",
+    "feature1_title": "Modern Production Facilities",
+    "feature1_desc": "We produce with state-of-the-art CNC machines and precision machining centers.",
+    "feature2_title": "Experienced Team",
+    "feature2_desc": "We work with a team of expert engineers and technicians in their fields.",
+    "feature3_title": "Quality Standards",
+    "feature3_desc": "We guarantee the highest quality with our ISO-compliant production processes.",
+    "feature4_title": "Wide Product Range",
+    "feature4_desc": "We manufacture steel molds, rubber molds, silicone molds, and plastic injection molds.",
+    "vision_title": "Our Vision",
+    "vision_text": "To be Turkey's leading company in the mold manufacturing and rubber production sector, producing at international standards and having a say in the global market.",
+    "mission_title": "Our Mission",
+    "mission_text": "To offer our customers the highest quality products on time and at competitive prices. To make a difference in the sector with continuous development and innovation."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contact us for your mold and rubber production projects",
+    "reach_us": "Reach Us",
+    "reach_desc": "You can reach us through the contact channels below for your steel mold manufacturing and rubber production requests.",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "location_value": "Küçükbalıklı Mahallesi Katip Sokak No:7 Osmangazi - Bursa, Turkey",
+    "form_title": "Send Us a Message",
+    "form_desc": "Fill out the form and we'll get back to you shortly.",
+    "name": "Full Name",
+    "name_placeholder": "Your full name",
+    "phone_number": "Mobile Phone",
+    "phone_placeholder": "+90 555 000 00 00",
+    "email_address": "Email Address",
+    "email_placeholder": "example@email.com",
+    "message": "Your Message",
+    "message_placeholder": "Tell us about your project...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Your message has been sent successfully! We'll get back to you soon.",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "description": "Your expert solution partner in mold manufacturing and rubber production. We serve the industry with quality and reliability.",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "admin": {
+    "panel": "Admin Panel",
+    "login": "Login",
+    "login_title": "Sign in",
+    "email": "Email",
+    "password": "Password",
+    "logging_in": "Signing in...",
+    "invalid_credentials": "Invalid email or password",
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "pages": "Pages",
+    "messages": "Messages",
+    "references": "References",
+    "logout": "Logout"
+  }
+}

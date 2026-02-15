@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "references": "Referanslar",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title1": "Kalıp İmalatı &",
+    "title2": "Kauçuk Üretimi",
+    "cta_products": "Ürünlerimiz",
+    "cta_contact": "İletişim"
+  },
+  "stats": {
+    "experience": "Yıllık Tecrübe",
+    "projects": "Tamamlanan Proje",
+    "clients": "Mutlu Müşteri",
+    "support": "Destek"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Endüstriyel üretim ihtiyaçlarınız için kapsamlı çözümler sunuyoruz",
+    "mold_title": "Çelik Kalıp İmalatı",
+    "mold_desc": "CNC işleme merkezlerinde yüksek hassasiyetle üretilen çelik kalıplar. Otomotiv, savunma ve endüstriyel uygulamalar için.",
+    "rubber_title": "Kauçuk Üretimi",
+    "rubber_desc": "NBR, EPDM, silikon ve viton malzemelerden teknik kauçuk parçalar, contalar ve özel profiller.",
+    "engineering_title": "Özel Mühendislik",
+    "engineering_desc": "Projenize özel kalıp tasarımı, prototipleme ve seri üretim çözümleri. Anahtar teslim hizmet."
+  },
+  "products": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Kaliteli üretim, güçlü mühendislik",
+    "view_all": "Tüm Ürünleri Gör",
+    "no_products": "Henüz ürün eklenmemiş.",
+    "page_subtitle": "Çelik kalıp, kauçuk ürünler ve özel mühendislik çözümlerimizi keşfet",
+    "seo_title": "Kalıp ve Kauçuk Üretim Çözümleri",
+    "seo_p1": "<strong>Çelik Kalıp Makina</strong> olarak, endüstriyel üretim ihtiyaçlarınıza yönelik geniş bir ürün yelpazesi sunuyoruz. <strong>Çelik kalıp imalatı</strong>, <strong>kauçuk üretimi</strong>, <strong>silikon kalıp</strong> ve <strong>plastik enjeksiyon kalıpları</strong> konularındaki uzmanlığımız ile projelerinize değer katıyoruz.",
+    "seo_p2": "Üretim hattımızda <strong>NBR, EPDM, silikon ve viton</strong> gibi farklı kauçuk türlerinden teknik parçalar, <strong>contalar</strong>, <strong>burçluklar</strong>, <strong>tamponlar</strong> ve <strong>özel profiller</strong> üretmekteyiz.",
+    "seo_p3": "Otomotiv, savunma sanayi, inşaat ve genel endüstri sektörlerine hizmet veren firmamız, müşteriye özel <strong>kalıp tasarımı</strong> ve <strong>prototipleme</strong> hizmeti de sunmaktadır."
+  },
+  "references": {
+    "title": "Referanslarımız",
+    "subtitle": "Güçlü iş birlikleri ile sektörde fark yaratıyoruz",
+    "heading": "Çalıştığımız Firmalar",
+    "description": "Yıllardır birlikte çalıştığımız değerli iş ortaklarımız ve referanslarımız.",
+    "no_references": "Henüz referans eklenmemiş."
+  },
+  "cta": {
+    "title": "Projeniz İçin Teklif Alın",
+    "subtitle": "Kalıp ve kauçuk üretimi ihtiyaçlarınız için bizimle iletişime geçin. Size en uygun çözümü birlikte bulalım.",
+    "button": "Bize Ulaşın"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Kalıp imalatı ve kauçuk üretiminde güçlü mühendislik, kaliteli üretim",
+    "feature1_title": "Modern Üretim Tesisleri",
+    "feature1_desc": "Son teknoloji CNC tezgahları ve hassas işleme merkezleri ile üretim yapıyoruz.",
+    "feature2_title": "Deneyimli Kadro",
+    "feature2_desc": "Alanında uzman mühendis ve teknisyenlerden oluşan ekibimiz ile çalışıyoruz.",
+    "feature3_title": "Kalite Standartları",
+    "feature3_desc": "ISO standartlarına uygun üretim süreçlerimiz ile en yüksek kaliteyi garanti ediyoruz.",
+    "feature4_title": "Geniş Ürün Yelpazesi",
+    "feature4_desc": "Çelik kalıp, kauçuk kalıp, silikon kalıp ve plastik enjeksiyon kalıpları üretiyoruz.",
+    "vision_title": "Vizyonumuz",
+    "vision_text": "Kalıp imalatı ve kauçuk üretimi sektöründe Türkiye'nin lider firması olmak, uluslararası standartlarda üretim yaparak global pazarda söz sahibi olmak.",
+    "mission_title": "Misyonumuz",
+    "mission_text": "Müşterilerimize en yüksek kalitede, zamanında ve rekabetçi fiyatlarla ürün sunmak. Sürekli gelişim ve inovasyon ile sektörde fark yaratmak."
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Kalıp ve kauçuk üretimi projeleriniz için bizimle iletişime geçin",
+    "reach_us": "Bize Ulaşın",
+    "reach_desc": "Çelik kalıp imalatı ve kauçuk üretimi konusundaki talepleriniz için aşağıdaki iletişim kanallarından bize ulaşabilirsiniz.",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "location": "Konum",
+    "location_value": "Küçükbalıklı Mahallesi Katip Sokak No:7 Osmangazi - Bursa",
+    "form_title": "Bize Mesaj Gönderin",
+    "form_desc": "Formu doldurun, en kısa sürede size dönelim.",
+    "name": "Ad Soyad",
+    "name_placeholder": "Adınız ve soyadınız",
+    "phone_number": "Cep Telefonu",
+    "phone_placeholder": "0555 000 00 00",
+    "email_address": "E-posta Adresi",
+    "email_placeholder": "ornek@email.com",
+    "message": "Mesajınız",
+    "message_placeholder": "Projeniz hakkında bilgi verin...",
+    "send": "Mesaj Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Mesajınız başarıyla gönderildi! En kısa sürede size döneceğiz.",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "footer": {
+    "description": "Kalıp imalatı ve kauçuk üretiminde uzman çözüm ortağınız. Kalite ve güvenilirlik ile sektöre hizmet veriyoruz.",
+    "quick_links": "Hızlı Erişim",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "admin": {
+    "panel": "Yönetim Paneli",
+    "login": "Giriş Yap",
+    "login_title": "Giriş yapın",
+    "email": "E-posta",
+    "password": "Şifre",
+    "logging_in": "Giriş yapılıyor...",
+    "invalid_credentials": "Geçersiz email veya şifre",
+    "dashboard": "Dashboard",
+    "products": "Ürünler",
+    "pages": "Sayfalar",
+    "messages": "Mesajlar",
+    "references": "Referanslar",
+    "logout": "Çıkış"
+  }
+}

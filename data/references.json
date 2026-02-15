@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "RobCell", "logoUrl": "/images/referans1.png", "website": null, "order": 1, "isActive": true },
+  { "id": 2, "name": "Valeo", "logoUrl": "/images/referans2.png", "website": null, "order": 2, "isActive": true },
+  { "id": 3, "name": "Copa", "logoUrl": "/images/referans3.jpg", "website": null, "order": 3, "isActive": true },
+  { "id": 4, "name": "Aritas Cryogenics", "logoUrl": "/images/referans4.jpg", "website": null, "order": 4, "isActive": true }
+]

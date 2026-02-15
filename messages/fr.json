@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "products": "Produits",
+    "references": "Références",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Fabrication de Moules &",
+    "title2": "Production de Caoutchouc",
+    "cta_products": "Nos Produits",
+    "cta_contact": "Contact"
+  },
+  "stats": {
+    "experience": "Ans d'Expérience",
+    "projects": "Projets Réalisés",
+    "clients": "Clients Satisfaits",
+    "support": "Support"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions complètes pour vos besoins de fabrication industrielle",
+    "mold_title": "Fabrication de Moules en Acier",
+    "mold_desc": "Moules en acier de haute précision produits dans des centres d'usinage CNC. Idéal pour les applications automobiles, de défense et industrielles.",
+    "rubber_title": "Production de Caoutchouc",
+    "rubber_desc": "Pièces techniques en caoutchouc, joints et profils spéciaux en NBR, EPDM, silicone et Viton.",
+    "engineering_title": "Ingénierie Sur Mesure",
+    "engineering_desc": "Conception de moules personnalisés, prototypage et solutions de production en série. Service clé en main."
+  },
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Production de qualité, ingénierie solide",
+    "view_all": "Voir Tous les Produits",
+    "no_products": "Aucun produit ajouté pour le moment.",
+    "page_subtitle": "Découvrez nos moules en acier, produits en caoutchouc et solutions d'ingénierie sur mesure",
+    "seo_title": "Solutions de Production de Moules et Caoutchouc",
+    "seo_p1": "En tant que <strong>Çelik Kalıp Makina</strong>, nous offrons une large gamme de produits pour vos besoins de fabrication industrielle. Notre expertise en <strong>fabrication de moules en acier</strong>, <strong>production de caoutchouc</strong>, <strong>moules en silicone</strong> et <strong>moules d'injection plastique</strong> apporte de la valeur à vos projets.",
+    "seo_p2": "Dans notre ligne de production, nous fabriquons des pièces techniques, des <strong>joints</strong>, des <strong>bagues</strong>, des <strong>tampons</strong> et des <strong>profils spéciaux</strong> à partir de différents types de caoutchouc tels que <strong>NBR, EPDM, silicone et Viton</strong>.",
+    "seo_p3": "Notre entreprise dessert les secteurs automobile, défense, construction et industrie générale, et propose également des services de <strong>conception de moules</strong> et de <strong>prototypage</strong> sur mesure."
+  },
+  "references": {
+    "title": "Nos Références",
+    "subtitle": "Nous faisons la différence dans l'industrie avec des partenariats solides",
+    "heading": "Entreprises avec lesquelles nous travaillons",
+    "description": "Nos précieux partenaires commerciaux et références avec lesquels nous travaillons depuis des années.",
+    "no_references": "Aucune référence ajoutée pour le moment."
+  },
+  "cta": {
+    "title": "Obtenez un Devis pour Votre Projet",
+    "subtitle": "Contactez-nous pour vos besoins en fabrication de moules et production de caoutchouc. Trouvons ensemble la meilleure solution.",
+    "button": "Contactez-nous"
+  },
+  "about": {
+    "title": "À Propos",
+    "subtitle": "Ingénierie solide et production de qualité dans la fabrication de moules et la production de caoutchouc",
+    "feature1_title": "Installations Modernes",
+    "feature1_desc": "Nous produisons avec des machines CNC de pointe et des centres d'usinage de précision.",
+    "feature2_title": "Équipe Expérimentée",
+    "feature2_desc": "Nous travaillons avec une équipe d'ingénieurs et de techniciens experts dans leurs domaines.",
+    "feature3_title": "Standards de Qualité",
+    "feature3_desc": "Nous garantissons la plus haute qualité avec nos processus de production conformes ISO.",
+    "feature4_title": "Large Gamme de Produits",
+    "feature4_desc": "Nous fabriquons des moules en acier, moules en caoutchouc, moules en silicone et moules d'injection plastique.",
+    "vision_title": "Notre Vision",
+    "vision_text": "Être l'entreprise leader de Turquie dans le secteur de la fabrication de moules et de la production de caoutchouc, en produisant selon les normes internationales.",
+    "mission_title": "Notre Mission",
+    "mission_text": "Offrir à nos clients des produits de la plus haute qualité, dans les délais et à des prix compétitifs. Faire la différence avec le développement continu et l'innovation."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactez-nous pour vos projets de fabrication de moules et de production de caoutchouc",
+    "reach_us": "Contactez-nous",
+    "reach_desc": "Vous pouvez nous joindre via les canaux de contact ci-dessous pour vos demandes de fabrication de moules en acier et de production de caoutchouc.",
+    "phone": "Téléphone",
+    "email": "Email",
+    "location": "Localisation",
+    "location_value": "Küçükbalıklı Mahallesi Katip Sokak No:7 Osmangazi - Bursa, Turquie",
+    "form_title": "Envoyez-nous un Message",
+    "form_desc": "Remplissez le formulaire et nous vous recontacterons rapidement.",
+    "name": "Nom Complet",
+    "name_placeholder": "Votre nom complet",
+    "phone_number": "Téléphone Portable",
+    "phone_placeholder": "+90 555 000 00 00",
+    "email_address": "Adresse Email",
+    "email_placeholder": "exemple@email.com",
+    "message": "Votre Message",
+    "message_placeholder": "Parlez-nous de votre projet...",
+    "send": "Envoyer le Message",
+    "sending": "Envoi en cours...",
+    "success": "Votre message a été envoyé avec succès ! Nous vous recontacterons bientôt.",
+    "error": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "footer": {
+    "description": "Votre partenaire expert dans la fabrication de moules et la production de caoutchouc. Nous servons l'industrie avec qualité et fiabilité.",
+    "quick_links": "Liens Rapides",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  },
+  "admin": {
+    "panel": "Panneau d'Administration",
+    "login": "Connexion",
+    "login_title": "Se connecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "logging_in": "Connexion...",
+    "invalid_credentials": "Email ou mot de passe invalide",
+    "dashboard": "Tableau de bord",
+    "products": "Produits",
+    "pages": "Pages",
+    "messages": "Messages",
+    "references": "Références",
+    "logout": "Déconnexion"
+  }
+}

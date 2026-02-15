@@ -1,0 +1,73 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Product {
+  id          Int            @id @default(autoincrement())
+  title       String
+  description String?
+  category    String?
+  images      ProductImage[]
+  isActive    Boolean        @default(true)
+  order       Int            @default(0)
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+}
+
+model ProductImage {
+  id        Int     @id @default(autoincrement())
+  url       String
+  alt       String?
+  order     Int     @default(0)
+  productId Int
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+}
+
+model PageContent {
+  id        Int      @id @default(autoincrement())
+  slug      String   @unique
+  title     String
+  content   String
+  updatedAt DateTime @updatedAt
+}
+
+model SiteImage {
+  id        Int      @id @default(autoincrement())
+  url       String
+  alt       String?
+  section   String
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+}
+
+model ContactMessage {
+  id        Int      @id @default(autoincrement())
+  name      String
+  phone     String
+  email     String
+  message   String
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model Reference {
+  id        Int      @id @default(autoincrement())
+  name      String
+  logoUrl   String
+  website   String?
+  order     Int      @default(0)
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+}
+
+model AdminUser {
+  id       Int    @id @default(autoincrement())
+  email    String @unique
+  password String
+  name     String
+}
